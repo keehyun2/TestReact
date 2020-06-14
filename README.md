@@ -1,25 +1,10 @@
-# Create React App example
+Create React App example 예제를 응용하여 개발중입니다.
 
-## How to use
+1. npm i
+2. npm run start 
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+### 사용한 기술
 
-```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app
-cd create-react-app
-```
-
-Install it and run:
-
-```sh
-npm install
-npm start
-```
-
-or:
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/master/examples/create-react-app)
-
-## The idea behind the example
-
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app).
+- react
+- material-ui https://material-ui.com/ 
+- redux (적용 예정)
